@@ -1,3 +1,5 @@
+#!/bin/bash
+
 apt-get update
 apt -y autoremove
 apt-get -y upgrade
